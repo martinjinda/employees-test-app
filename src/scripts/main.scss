@@ -1,0 +1,16 @@
+body {
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+a {
+  .glyphicon {
+    padding-right: 10px;
+  }
+}
+
+@media (min-width: 1025px) {
+  .container {
+    max-width: 1024px;
+  }
+}

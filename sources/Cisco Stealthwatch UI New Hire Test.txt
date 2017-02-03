@@ -1,0 +1,30 @@
+Cisco Stealthwatch UI New Hire Test
+
+Directions:
+
+Create a new AngularJS application that displays Employee information.
+
+The application should do the following:
+
+* Display employee information in a table.
+* Columns should be sortable.
+* Data should be loaded into the application from the supplied JSON file.
+
+Use the attached Wireframe as an example of how the application should generally look.
+
+Tools:
+
+* Application should be written using the javascript framework of your choice.  We currently use AngularJS.
+* A front end/CSS framework of your choice can be used.  We currently use Bootstrap and UI Bootstrap.
+* Use JSFiddle (https://jsfiddle.net) to write your code.
+
+Extra Credit (not required):
+
+Display the charts in the wireframe using a chart library of your choice can be used.  We currently use High Charts.
+
+* Display a pie chart showing the number of employees by Job Title.
+* Display a bar chart with the number of employees by Gender.
+
+Deliverable:
+
+When complete, please email your sample project JFiddle Link to Brandon Vince - bvince@cisco.com.
